@@ -95,6 +95,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "first_lesson_for_rust"
+version = "0.1.0"
+dependencies = [
+ "html2md",
+ "reqwest",
+]
+
+[[package]]
 name = "fnv"
 version = "1.0.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -852,14 +860,6 @@ checksum = "8f05ba609c234e60bee0d547fe94a4c7e9da733d1c962cf6e59efa4cd9c8bc75"
 dependencies = [
  "lazy_static",
  "winapi",
-]
-
-[[package]]
-name = "scrape_url"
-version = "0.1.0"
-dependencies = [
- "html2md",
- "reqwest",
 ]
 
 [[package]]

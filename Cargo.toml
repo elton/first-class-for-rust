@@ -1,5 +1,5 @@
 [package]
-name = "scrape_url"
+name = "first_lesson_for_rust"
 version = "0.1.0"
 edition = "2018"
 
