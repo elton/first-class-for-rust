@@ -18,40 +18,40 @@
 // tuple 定义元组
 
 pub fn data_struct() {
-  let alice = User {
-    id: UserId(1),
-    name: "Alice".into(),
-    gender: Gender::Female,
-  };
+    let alice = User {
+        id: UserId(1),
+        name: "Alice".into(),
+        gender: Gender::Female,
+    };
 
-  let bob = User {
-    id: UserId(2),
-    name: "Bob".into(),
-    gender: Gender::Male,
-  };
+    let bob = User {
+        id: UserId(2),
+        name: "Bob".into(),
+        gender: Gender::Male,
+    };
 
-  let topic = Topic {
-    id: TopicId(1),
-    name: "rust".into(),
-    owner: UserId(1),
-  };
+    let topic = Topic {
+        id: TopicId(1),
+        name: "rust".into(),
+        owner: UserId(1),
+    };
 
-  let event1 = Event::Join((alice.id, topic.id));
-  let event2 = Event::Join((bob.id, topic.id));
-  let event3 = Event::Message((alice.id, topic.id, "hello world!".into()));
+    let event1 = Event::Join((alice.id, topic.id));
+    let event2 = Event::Join((bob.id, topic.id));
+    let event3 = Event::Message((alice.id, topic.id, "hello world!".into()));
 
-  println!(
-    "event1: {:?}, event2: {:?}, event3: {:?}",
-    event1, event2, event3
-  );
+    println!(
+        "event1: {:?}, event2: {:?}, event3: {:?}",
+        event1, event2, event3
+    );
 }
 
 // 枚举结构体
 #[derive(Debug)]
 enum Gender {
-  Unspecified = 0,
-  Female = 1,
-  Male = 2,
+    Unspecified = 0,
+    Female = 1,
+    Male = 2,
 }
 
 // 元组结构体， 它的字段都是匿名的，可以通过索引访问，适合简单的结构体。
@@ -66,22 +66,22 @@ struct TopicId(u64);
 // 标准结构体
 #[derive(Debug)]
 struct User {
-  id: UserId,
-  name: String,
-  gender: Gender,
+    id: UserId,
+    name: String,
+    gender: Gender,
 }
 
 #[derive(Debug)]
 struct Topic {
-  id: TopicId,
-  name: String,
-  owner: UserId,
+    id: TopicId,
+    name: String,
+    owner: UserId,
 }
 
 // 标签结构体
 #[derive(Debug)]
 enum Event {
-  Join((UserId, TopicId)),
-  Leave((UserId, TopicId)),
-  Message((UserId, TopicId, String)),
+    Join((UserId, TopicId)),
+    Leave((UserId, TopicId)),
+    Message((UserId, TopicId, String)),
 }

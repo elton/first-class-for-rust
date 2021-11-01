@@ -14,6 +14,8 @@
 
 // 基本概念
 
+pub mod control;
 pub mod data_struct;
 pub mod functions;
 pub mod hello_world;
+pub mod pattern_match;
