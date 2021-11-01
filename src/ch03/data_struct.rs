@@ -57,11 +57,11 @@ enum Gender {
 // 元组结构体， 它的字段都是匿名的，可以通过索引访问，适合简单的结构体。
 // Debug - 表示打印调试信息， Clone - 表示让数据结构可以被复制， Copy - 让数据结构在参数传递的时候，自动按照字节拷贝
 #[derive(Debug, Clone, Copy)]
-struct UserId(u64);
+pub struct UserId(u64);
 
 // 元组结构体， 它的字段都是匿名的，可以通过索引访问，适合简单的结构体。
 #[derive(Debug, Clone, Copy)]
-struct TopicId(u64);
+pub struct TopicId(u64);
 
 // 标准结构体
 #[derive(Debug)]
@@ -80,7 +80,7 @@ struct Topic {
 
 // 标签结构体
 #[derive(Debug)]
-enum Event {
+pub enum Event {
     Join((UserId, TopicId)),
     Leave((UserId, TopicId)),
     Message((UserId, TopicId, String)),

@@ -11,3 +11,13 @@
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 // See the License for the specific language governing permissions and
 // limitations under the License.
+
+use crate::ch03::data_struct::Event;
+
+pub fn process_event(event: &Event) {
+    match event {
+        Event::Join((uid, _tid)) => println!("user {:?} joined", uid),
+        Event::Leave((uid, tid)) => println!("user {:?} left {:?}", uid, tid),
+        Event::Message((_, _, msg)) => println!("broadcast {:?}", msg),
+    }
+}
