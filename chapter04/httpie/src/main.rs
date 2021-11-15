@@ -1,5 +1,5 @@
 use anyhow::{anyhow, Result};
-use clap::{AppSettings, Parser};
+use clap::Parser;
 use colored::*;
 use mime::Mime;
 use reqwest::{header, Client, Response, Url};
