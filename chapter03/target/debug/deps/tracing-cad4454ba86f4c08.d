@@ -1,0 +1,13 @@
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/tracing-cad4454ba86f4c08.rmeta: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/macros.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/dispatcher.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/field.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/instrument.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/level_filters.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/span.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/stdlib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/subscriber.rs
+
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/tracing-cad4454ba86f4c08.d: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/macros.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/dispatcher.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/field.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/instrument.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/level_filters.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/span.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/stdlib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/subscriber.rs
+
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/lib.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/macros.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/dispatcher.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/field.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/instrument.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/level_filters.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/span.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/stdlib.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/subscriber.rs:

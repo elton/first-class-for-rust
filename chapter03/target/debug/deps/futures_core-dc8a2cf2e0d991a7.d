@@ -1,0 +1,11 @@
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/futures_core-dc8a2cf2e0d991a7.rmeta: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/future.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/stream.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/poll.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/atomic_waker.rs
+
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/futures_core-dc8a2cf2e0d991a7.d: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/future.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/stream.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/poll.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/atomic_waker.rs
+
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/lib.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/future.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/stream.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/mod.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/poll.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/mod.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/atomic_waker.rs:

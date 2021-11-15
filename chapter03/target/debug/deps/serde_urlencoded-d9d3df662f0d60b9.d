@@ -1,0 +1,11 @@
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/serde_urlencoded-d9d3df662f0d60b9.rmeta: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/de.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/key.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/pair.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/part.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/value.rs
+
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/serde_urlencoded-d9d3df662f0d60b9.d: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/de.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/key.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/pair.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/part.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/value.rs
+
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/lib.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/de.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/mod.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/key.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/pair.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/part.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.0/src/ser/value.rs:

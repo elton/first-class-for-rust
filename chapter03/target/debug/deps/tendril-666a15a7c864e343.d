@@ -1,0 +1,11 @@
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/tendril-666a15a7c864e343.rmeta: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/fmt.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/stream.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/buf32.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/tendril.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/utf8_decode.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/util.rs
+
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/tendril-666a15a7c864e343.d: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/fmt.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/stream.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/buf32.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/tendril.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/utf8_decode.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/util.rs
+
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/lib.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/fmt.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/stream.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/buf32.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/tendril.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/utf8_decode.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/util.rs:

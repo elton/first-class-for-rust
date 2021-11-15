@@ -1,0 +1,15 @@
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/markup5ever-ecabbdab0de5cef5.rmeta: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs /Volumes/data/study/Rust/first-class-for-rust/target/debug/build/markup5ever-0dfb5d65850c4f29/out/generated.rs /Volumes/data/study/Rust/first-class-for-rust/target/debug/build/markup5ever-0dfb5d65850c4f29/out/named_entities.rs
+
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/markup5ever-ecabbdab0de5cef5.d: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs /Volumes/data/study/Rust/first-class-for-rust/target/debug/build/markup5ever-0dfb5d65850c4f29/out/generated.rs /Volumes/data/study/Rust/first-class-for-rust/target/debug/build/markup5ever-0dfb5d65850c4f29/out/named_entities.rs
+
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs:
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/build/markup5ever-0dfb5d65850c4f29/out/generated.rs:
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/build/markup5ever-0dfb5d65850c4f29/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/Volumes/data/study/Rust/first-class-for-rust/target/debug/build/markup5ever-0dfb5d65850c4f29/out

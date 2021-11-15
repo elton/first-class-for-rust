@@ -1,0 +1,12 @@
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/proc_macro2-6db5e4c7e38ebac5.rmeta: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/marker.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/parse.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/detection.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/fallback.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/wrapper.rs
+
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/libproc_macro2-6db5e4c7e38ebac5.rlib: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/marker.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/parse.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/detection.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/fallback.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/wrapper.rs
+
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/proc_macro2-6db5e4c7e38ebac5.d: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/marker.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/parse.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/detection.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/fallback.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/wrapper.rs
+
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/lib.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/marker.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/parse.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/detection.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/fallback.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.29/src/wrapper.rs:

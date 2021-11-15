@@ -1,0 +1,12 @@
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/httparse-697b4f4dcbddb44e.rmeta: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs
+
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/libhttparse-697b4f4dcbddb44e.rlib: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs
+
+/Volumes/data/study/Rust/first-class-for-rust/target/debug/deps/httparse-697b4f4dcbddb44e.d: /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs /Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs
+
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs:
+/Users/elton/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs:
